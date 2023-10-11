@@ -2,14 +2,4 @@ Hello World!
 
 This is my code update by Visual VSCode!
 
-Deneme with VSCode
-
-
-<<<<<<<<< Temporary merge branch 1
-Bu kod vscode tarafindan commit edilmistir!!!
-=========
-Bu kod vscode tarafindan commit edilmistir!!!
-
-
-naber guzelim iyimisin ben vscode!!!!!!!!
->>>>>>>>> Temporary merge branch 2
+hersey silindi.......
