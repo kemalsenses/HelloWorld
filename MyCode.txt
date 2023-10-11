@@ -3,9 +3,3 @@ Hello World!
 This is my code update by Visual VSCode!
 
 Deneme with VSCode
-
-
-Bu kod vscode tarafindan commit edilmistir!!!
-
-
-naber guzelim iyimisin ben vscode!!!!!!!!
