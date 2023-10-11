@@ -5,5 +5,11 @@ This is my code update by Visual VSCode!
 Deneme with VSCode
 
 
-pekala sen bilirsin 
-bu sefer vscode guncellemesi geliyor
+<<<<<<<<< Temporary merge branch 1
+Bu kod vscode tarafindan commit edilmistir!!!
+=========
+Bu kod vscode tarafindan commit edilmistir!!!
+
+
+naber guzelim iyimisin ben vscode!!!!!!!!
+>>>>>>>>> Temporary merge branch 2
